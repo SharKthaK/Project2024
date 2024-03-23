@@ -5,7 +5,7 @@ html, body {
     padding: 0;
     margin: 0;
 }
-.header {
+.header1 {
     display: block;
     margin: 0 auto;
     width: 100%;
@@ -134,7 +134,7 @@ input[type=checkbox]:checked ~ .sidebarIconToggle > .diagonal.part-2 {
     width:100%;
     background-color: white;
     background: linear-gradient(180deg, whitesmoke 0%, rgb(66, 165, 198) 100%);
-    padding-top: 70px;
+    margin-top: 100px;
 }
 .row1{
   padding-top: 60px;
