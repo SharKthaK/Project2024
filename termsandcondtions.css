@@ -1,0 +1,23 @@
+h1{
+    color: red;
+    font-size: 50px;
+    font-family: cursive;
+}
+h1:hover{
+    color: orange;
+}
+body{
+    background: linear-gradient(180deg, whitesmoke 0%, rgb(66, 165, 198) 100%);
+}
+.abc{
+    text-align: start;
+    font-size: 25px;
+    font-family: cursive;
+    font-weight: bold;
+}
+.abc:hover{
+    color: rgb(255, 0, 64);
+}
+.abcd:hover{
+    color: white;
+}
