@@ -1,0 +1,29 @@
+h1{
+    color: red;
+    font-size: 50px;
+    font-family: cursive;
+}
+h1:hover{
+    color: orange;
+}
+body{
+    background: linear-gradient(180deg, whitesmoke 0%, rgb(66, 165, 198) 100%);
+}
+p{
+    font-size: 1.5em;
+    font-weight: bold;
+    letter-spacing: 1.25px;
+    text-align: justify;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+button{
+    background-color: transparent;
+
+    letter-spacing: 1.25px;
+    padding: -10px 20px;
+    border: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+button:hover{
+    color: rgb(52, 50, 51)
+}
